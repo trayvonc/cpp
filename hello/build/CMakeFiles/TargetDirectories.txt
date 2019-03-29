@@ -1,0 +1,7 @@
+/home/fvadim/projects/hello/build/CMakeFiles/install/strip.dir
+/home/fvadim/projects/hello/build/CMakeFiles/edit_cache.dir
+/home/fvadim/projects/hello/build/CMakeFiles/hello.dir
+/home/fvadim/projects/hello/build/CMakeFiles/rebuild_cache.dir
+/home/fvadim/projects/hello/build/CMakeFiles/list_install_components.dir
+/home/fvadim/projects/hello/build/CMakeFiles/install/local.dir
+/home/fvadim/projects/hello/build/CMakeFiles/install.dir
