@@ -1,0 +1,14 @@
+﻿cl : 命令行 warning D9025: 正在重写“/sdl”(用“/GS-”)
+  stdafx.cpp
+cl : 命令行 warning D9025: 正在重写“/sdl”(用“/GS-”)
+  最佳路径选择.cpp
+d:\天天向上\my project\最佳路径选择\最佳路径选择\最佳路径选择.cpp(204): warning C4101: “w”: 未引用的局部变量
+d:\天天向上\my project\最佳路径选择\最佳路径选择\最佳路径选择.cpp(286): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: 参见“scanf”的声明
+d:\天天向上\my project\最佳路径选择\最佳路径选择\最佳路径选择.cpp(311): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: 参见“scanf”的声明
+d:\天天向上\my project\最佳路径选择\最佳路径选择\最佳路径选择.cpp(313): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: 参见“scanf”的声明
+d:\天天向上\my project\最佳路径选择\最佳路径选择\最佳路径选择.cpp(323): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: 参见“scanf”的声明
+  最佳路径选择.vcxproj -> D:\天天向上\My project\最佳路径选择\Debug\最佳路径选择.exe

@@ -1,0 +1,23 @@
+﻿  stdafx.cpp
+  仓库管理系统.cpp
+d:\天天向上\my project\仓库管理系统\仓库管理系统\仓库管理系统\仓库管理系统.cpp(50): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 参见“strcpy”的声明
+d:\天天向上\my project\仓库管理系统\仓库管理系统\仓库管理系统\仓库管理系统.cpp(53): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 参见“strcpy”的声明
+d:\天天向上\my project\仓库管理系统\仓库管理系统\仓库管理系统\仓库管理系统.cpp(54): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 参见“strcpy”的声明
+d:\天天向上\my project\仓库管理系统\仓库管理系统\仓库管理系统\仓库管理系统.cpp(91): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 参见“strcpy”的声明
+d:\天天向上\my project\仓库管理系统\仓库管理系统\仓库管理系统\仓库管理系统.cpp(96): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 参见“strcpy”的声明
+d:\天天向上\my project\仓库管理系统\仓库管理系统\仓库管理系统\仓库管理系统.cpp(139): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 参见“strcpy”的声明
+d:\天天向上\my project\仓库管理系统\仓库管理系统\仓库管理系统\仓库管理系统.cpp(239): warning C4101: “discount”: 未引用的局部变量
+d:\天天向上\my project\仓库管理系统\仓库管理系统\仓库管理系统\仓库管理系统.cpp(312): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 参见“strcpy”的声明
+d:\天天向上\my project\仓库管理系统\仓库管理系统\仓库管理系统\仓库管理系统.cpp(513): warning C4101: “disc”: 未引用的局部变量
+d:\天天向上\my project\仓库管理系统\仓库管理系统\仓库管理系统\仓库管理系统.cpp(797): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 参见“strcpy”的声明
+d:\天天向上\my project\仓库管理系统\仓库管理系统\仓库管理系统\仓库管理系统.cpp(807): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 参见“strcpy”的声明
+  仓库管理系统.vcxproj -> D:\天天向上\My project\仓库管理系统\仓库管理系统\Debug\仓库管理系统.exe
